@@ -1,0 +1,17 @@
+#arch 
+
+#plug 
+
+#disk  
+
+#sounds 
+
+#icon-play 
+#icon-pause 
+#icon-stop 
+#icon-next 
+#icon-prev 
+
+#battery full         
+#charging 
+#new-battery   
